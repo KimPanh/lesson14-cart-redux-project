@@ -1,0 +1,4 @@
+Truoc cac component tu len tren store de lay du lieu ve de truyen qua props
+
+Container giai quyet van de la cac compoment se chi thuc hien nhiem vu hien thi ra
+con container se di lay cac du lieu o tren store va truyen vao components.
